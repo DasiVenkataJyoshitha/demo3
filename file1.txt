@@ -1,3 +1,5 @@
 "cse branch"
 "ece branch"
 "mech branch"
+"civil branch"
+"AI and ML branch"
